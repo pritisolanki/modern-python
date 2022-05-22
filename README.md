@@ -1,5 +1,5 @@
 ## modern-python
-Exploring setting up a python project with virtual environment.
+Exploring setting up a python project with virtual environment by following hypermodern python. It super exciting exploring new ways!
 
 ## Technical Stack
 * Python 3.8.2
