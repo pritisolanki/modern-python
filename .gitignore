@@ -1,3 +1,6 @@
-__pycache__
 .pytest_cache
 tests/__pycache__
+src/modern_python/__pycache__
+.coverage
+.vscode/
+__pycache__/
